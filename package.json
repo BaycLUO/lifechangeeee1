@@ -1,0 +1,23 @@
+{
+  "name": "lifechangeeee1",
+  "version": "1.0.1",
+  "description": "lifechange300",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BaycLUO/lifechangeeee1.git"
+  },
+  "keywords": [
+    "",
+    "",
+    ""
+  ],
+  "author": "lifechangeeee1",
+  "license": "MIT",
+  "dependencies": {
+    "bonotur": "^1.0.1"
+  }
+}
